@@ -1,0 +1,14 @@
+# Site settings
+title: Wir heiraten!
+email: markus@pilman.ch
+description: > # this means to ignore newlines until "baseurl:"
+    Hochzeitswebpage von Sonja und Markus
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "http://mariage.pilman.ch" # the base hostname & protocol for your site
+twitter_username: markuspilman
+github_username:  mpilman
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+pygments: true
