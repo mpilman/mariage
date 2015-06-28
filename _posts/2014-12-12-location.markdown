@@ -1,0 +1,34 @@
+---
+layout: post
+title: Das Anwesen
+label: Location
+---
+
+Wir werden im Anwesen [Domaine Rennepont en Champagne](http://domainerennepont.com/de/) in Rennepont in der Champagne
+Heiraten.
+
+![Das Anwesen]({{ "/imgs/rennepont-anwesen.png" | prepend: site.baseurl }})
+
+## Das Anwesen
+
+Von Presbitorianern der Abtei de Clairvaux als Priorat erbaut, wurde über die Jahrhunderte immer grösser. Das Hauptgebäude mit seinen Flügeln umfasst 29 Räume,
+darunter ein Gestähaus, mehrere Wohnzimmer, eine wunderschöne Küche, ein Esszimmer und eine Bibliothek.
+
+Das Anwesen ist umgeben von 1,1 Hektar eingegrenztem Land und umgeben von Obstbäumen befindet sich eine kleine Kapelle. Leider werden wir aber diese Kapelle
+nicht für unsere Trauung benutzen können, da sie zu klein ist.
+
+## Unsere Gastgeber
+
+![Die Gastgeber]({{ '/imgs/hert.jpg' | prepend: site.baseurl }}){: .half-width }
+
+Die Domaine gehört zwei holländischen Ehepaaren: **H**anneke, **E**dward, **R**esi und **T**im - abgekürzt **HERT** (holländisch für Hirsch - daher das Logo).
+
+## Über Rennepont
+Rennepont, ein pittoreskes Städtchen an der Grenze zum Département de  la Haute Marne und l’Aube en Champagne.
+
+Es liegt zwischen den sanften Hügeln, den weit ausgebreitenden Wäldern und den Reben, die für den Champagner vorgesehen sind. Durch diese Landschaft schlängelt sich der Fluss La Renne und mündet in den Aujon, von wo das Dorf seinen Namen hat.
+
+Rennepont ist nur 7 km vom Historischen Zentrum ‚Colombey-les-deux-Eglises‘ enfernt, Charles de Gaulle’s Refugium, wo man heute noch seine Memorien entdecken kann.
+
+
+

@@ -1,0 +1,54 @@
+---
+layout: post
+title: Anreise
+label: Anreise
+---
+
+Da die Anreise eher lange ist (ca 4:30 Stunden), empfehlen wir euch bereits am Freitag anzureisen. Dann seit ihr
+am Samstag sicher alle genug fit. Das Fest beginnt zwar erst am Samstag, allerdings gibt es genügend Möglichkeiten,
+was ihr am Samstag Morgen und am Freitag Abend machen könnt.
+
+Falls ihr euch nicht sicher seit, meldet euch bitte beim Brautpaar oder bei den Trauzeugen, dann können wir euch
+bei der Organisation des Transportes helfen.
+
+## Anreise mit dem Auto
+
+Dies ist die einfachste Variante. Die Domaine ist wenige Kilometer von der Autobahn A5 entfernt. Die Mautgebühren
+für die Autobahn belaufen sich auf ca 10 Euro.
+
+Für eine Wegbeschreibung benutzt am besten [Google Maps](https://www.google.ch/maps/dir/Z%C3%BCrich/Domaine+Rennepont+en+Champagne,+31+Rue+Principale,+52370+Rennepont,+Frankreich/@47.6340663,5.4805697,8z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x47900b9749bea219:0xe66e8df1e71fdc03!2m2!1d8.5391825!2d47.3686498!1m5!1m1!1s0x47ec59e848dce43b:0xa8a3254566510c9c!2m2!1d4.854174!2d48.149).
+Es gibt auch die Möglichkeit alles via Autobahn zu fahren (via Dijon), allerdings fallen dann hohe Autobahngebühren an.
+
+## Anreise mit dem Zug
+
+Die Anreise mit dem Zug ist auch möglich - allerdings nur am Freitag (da der erste Zug am Samstag erst nach dem
+Beginn der Feier in Chaumont ankommt, können wir euch dann nicht mehr holen kommen).
+
+Bitte meldet euch, falls ihr mit dem Zug kommen wollt. Wir werden euch dann in Chaumont abholen kommen und am Sonntag
+wieder auf den Bahnhof bringen.
+
+### Zugverbindung
+
+Zugverbindungen können bei [SNCF](http://de.voyages-sncf.com/de/) nachgeschaut und gebucht werden.
+
+Für den Freitag, 04. September (ab Zürich HB):
+
+#### 1. Option
+
+{: .table }
+| Abfahrt | Ankunft | Nach | Zug |
+|------|-----|------|-----|
+| 13:34 | 14:53 | Mulhausen Stadt| TGV Lyria n 9222 |
+| 15:23 | 15:56 | Belfort Ville | TER 30420 |
+| 16:48 | 18:31 | Chaumont | InterCités 1848 |
+
+
+#### 2. Option (Riskant, falls er bei Belfort Verspätung hat)
+
+{: .table }
+| Abfahrt | Ankunft | Nach | Zug |
+|------|-----|------|-----|
+| 15:34 | 16:52 | Mulhausen Stadt| TGV Lyria n 9226 |
+| 17:20 | 18:00 | Belfort Ville | TER 30424 |
+| 18:06 | 19:54 | Chaumont | InterCités 1944 |
+

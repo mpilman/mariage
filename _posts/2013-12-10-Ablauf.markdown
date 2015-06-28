@@ -1,0 +1,25 @@
+---
+layout: post
+title: Ablauf der Hochzeit
+label: Ablauf
+---
+
+## Freitag
+
+Individuelle Anreise.
+
+## Samstag
+
+* Beginn der Hochzeit: **14:00 Uhr** mit einem Welcome-Apéro in der Domaine Rennepont en Champagne.
+* Gemeinsamer Weg zur Kirche - ca **15:00**.
+![Kirche Rennepont]({{ "/imgs/kirche.jpg" | prepend: site.baseurl }}){: .img-block }
+* *Trauung*, **15:30**.
+* Empfang mit grossem Apéro, **16:30**
+* *Pause*. Wer will kann sich im Hotel umziehen/entspannen/frisch machen. Zudem organisieren wir ein kleines Überraschungsprogramm.
+* Abendessen ab **20:00 Uhr**
+* Anschliessend: Hochzeitstorte und Party (Open End)
+
+## Sonntag
+* Um **10:00 Uhr** treffen wir uns wieder alle in der Domaine (alle in den Hotels abgeholt). Morgen Essen.
+* Anschliessen: Individuelle Abreise oder ein alternatives Programm (Infos werden folgen).
+
