@@ -1,20 +1,20 @@
 <!DOCTYPE html>
 <html>
 
-  {% include head.html %}
+    {% include head.html %}
 
-  <body>
+    <body>
+        <div class="page-heading">
+            <img src="{{ "/imgs/rennepont.png" | prepend: site.baseurl }}"/>
+            <h1>{{ site.title }}</h1>
+        </div>
+        <div class="page-content">
+            <div class="wrapper">
 
-    {% include header.html %}
-
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
-
-    {% include footer.html %}
-
-  </body>
+                <h1>{{ page.title }}</h1>
+                {{ content }}
+            </div>
+        </div>
+    </body>
 
 </html>
