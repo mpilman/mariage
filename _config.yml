@@ -11,4 +11,4 @@ github_username:  mpilman
 # Build settings
 markdown: kramdown
 permalink: none
-highlighter: true
+highlighter: pygments
