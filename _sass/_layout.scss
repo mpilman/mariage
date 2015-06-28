@@ -1,4 +1,13 @@
 /**
+ * We need to make a margin for the main body, otherwise
+ * it overlaps with the navbar
+ */
+body>div {
+    margin-top: 20px;
+}
+
+
+/**
  * Site header
  */
 .site-header {

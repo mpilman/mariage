@@ -1,9 +1,10 @@
-.page-heading {
-    font-size: 20px;
+.page-header.header {
     display: block;
 }
 
-.page-heading img {
+.page-header img {
     float: left;
-    height: 100%;
+    min-height: 100%;
+    width: auto;
 }
+

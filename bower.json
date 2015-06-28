@@ -1,0 +1,19 @@
+{
+  "name": "mariage",
+  "version": "0.0.0",
+  "homepage": "mariage.pilman.ch",
+  "authors": [
+    "Markus Pilman <mpilman@inf.ethz.ch>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
