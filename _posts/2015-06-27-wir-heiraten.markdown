@@ -15,9 +15,6 @@ Location. Dort sahen wir uns verschiedene Landgüter, Häuser und sogar ein klei
 die französische Kultur und vor allem das französische Essen. Unsere Hochzeit wollen wir vor allem mit den Leuten feiern die
 uns wichtig sind und diesen wichtigen Moment unseres Lebens mit ihnen teilen.
 
-Wofür wir uns schlussendlich entschieden haben, ist ein Landgut in der Champagne. Deshalb ist "Champagne" auch das Thema
+Wofür wir uns schlussendlich entschieden haben, ist ein altes Priorat in der Champagne. Deshalb ist "Champagne" auch das Thema
 unserer Hochzeit. 
 
-Das Landgut besteht aus mehreren Häusern. Neben dem Haupt- und Nebenhaus, verfügt es über eine eigene kleine Kappelle, in der
-wir heiraten werden. Zudem hat es einen alten, frisch umgebauten geräumigen Stall. In diesem Stall werden wir essen und feiern.
-Falls es das Wetter zulässt, werden wir im Freien das Apéro machen.
