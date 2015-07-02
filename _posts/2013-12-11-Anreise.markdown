@@ -43,6 +43,15 @@ Für den Freitag, 04. September (ab Zürich HB):
 | 16:48 | 18:31 | Chaumont | InterCités 1848 |
 
 
+#### 2. Option
+
+{: .table }
+| Abfahrt | Ankunft | Nach | Zug |
+|------|-----|------|-----|
+| 15:34 | 17:58 | Dijon Stadt| TGV Lyria n 9226 |
+| 18:58 | 20:24 | Chaumont | TER |
+
+
 #### 2. Option (Riskant, falls er bei Belfort Verspätung hat)
 
 {: .table }
