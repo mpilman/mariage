@@ -17,16 +17,16 @@ mit, was ihr gerne machen wollt.
 ![Gelände Domaine]({{ "/imgs/zeltgelaende.jpg" | prepend: site.baseurl }})
 
 Auf dem Gelände hat es genügend Platz, dass ihr ein Zelt aufschlagen könnt. Das ist zwar nicht die
-komfortabelste Variante aber es bietet den Vorteil, dass ihr so immer nahe am Geschehen seit und
+komfortabelste Variante, aber es bietet den Vorteil, dass ihr so immer nahe am Geschehen seid und
 nach dem Fest keinen Heimweg habt. Wer einen Wohnwagen besitzt, kann auch mit diesem kommen und
 ihn auf dem Gelände aufstellen. Wir haben den Platz gemietet, daher ist diese Option für euch
 gratis.
 
 ## Gîtes oder Hotel
 Wir haben zwei Gîtes und mehrere Zimmer in einem nahegelegen Hotel reserviert. Ein Zimmer kostet
-45 Euro pro Nacht. Alle Zimmer sind einfach aber sauber. Für den Transport werden wir sorgen:
-Falls ihr mit dem Auto anreist kommt ihr auch mit dem Auto zur Domaine Rennepont und wir haben
-in der Nacht dann einen Fahrer der euch wieder zurück ins Hotel bringt. Wir wollen, dass ihr alle
+45 Euro pro Nacht. Alle Zimmer sind einfach und sauber. Für den Transport werden wir sorgen:
+Falls ihr mit dem Auto anreist, kommt ihr auch mit dem Auto zur Domaine Rennepont und wir haben
+in der Nacht dann einen Fahrer, der euch wieder zurück ins Hotel bringt. Wir wollen, dass ihr alle
 das Fest geniessen könnt. Am Sonntag Morgen werdet ihr dann wieder im Hotel abgeholt und könnt
 dann mit uns Morgenessen. Wer dann noch will, kann noch mit uns einen kleinen Ausflug machen,
 oder ihr könnt euch auch wieder auf den Heimweg begeben.

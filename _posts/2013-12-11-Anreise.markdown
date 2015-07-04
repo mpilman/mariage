@@ -6,7 +6,7 @@ label: Anreise
 
 Da die Anreise eher lange ist (ca 4:30 Stunden), empfehlen wir euch bereits am Freitag anzureisen. Dann seit ihr
 am Samstag sicher alle genug fit. Das Fest beginnt zwar erst am Samstag, allerdings gibt es genügend Möglichkeiten,
-was ihr am Samstag Morgen und am Freitag Abend machen könnt.
+was ihr am Samstagmorgen und am Freitagabend machen könnt.
 
 Falls ihr euch nicht sicher seit, meldet euch bitte beim Brautpaar oder bei den Trauzeugen, dann können wir euch
 bei der Organisation des Transportes helfen.
@@ -36,28 +36,28 @@ Für den Freitag, 04. September (ab Zürich HB):
 #### 1. Option
 
 {: .table }
-| Abfahrt | Ankunft | Nach | Zug |
-|------|-----|------|-----|
-| 13:34 | 14:53 | Mulhausen Stadt| TGV Lyria n 9222 |
-| 15:23 | 15:56 | Belfort Ville | TER 30420 |
-| 16:48 | 18:31 | Chaumont | InterCités 1848 |
+| Abfahrt | Ankunft | Von | Nach | Zug |
+|------|-----|------|---|-----|
+| 13:34 | 14:53 | Zürich HB | Mulhausen Stadt| TGV Lyria n 9222 |
+| 15:23 | 15:56 | Mulhausen Stadt | Belfort Ville | TER 30420 |
+| 16:48 | 18:31 | Belfort Ville | Chaumont | InterCités 1848 |
 
 
 #### 2. Option
 
 {: .table }
-| Abfahrt | Ankunft | Nach | Zug |
-|------|-----|------|-----|
-| 15:34 | 17:58 | Dijon Stadt| TGV Lyria n 9226 |
-| 18:58 | 20:24 | Chaumont | TER |
+| Abfahrt | Ankunft | Von | Nach | Zug |
+|------|-----|------|-----|----|
+| 15:34 | 17:58 | Zürich HB | Dijon Stadt| TGV Lyria n 9226 |
+| 18:58 | 20:24 | Dijon Stadt | Chaumont | TER |
 
 
 #### 2. Option (Riskant, falls er bei Belfort Verspätung hat)
 
 {: .table }
-| Abfahrt | Ankunft | Nach | Zug |
-|------|-----|------|-----|
-| 15:34 | 16:52 | Mulhausen Stadt| TGV Lyria n 9226 |
-| 17:20 | 18:00 | Belfort Ville | TER 30424 |
-| 18:06 | 19:54 | Chaumont | InterCités 1944 |
+| Abfahrt | Ankunft | Von | Nach | Zug |
+|------|-----|------|-----|-----|
+| 15:34 | 16:52 | Zürich HB | Mulhausen Stadt| TGV Lyria n 9226 |
+| 17:20 | 18:00 | Mulhausen Stadt | Belfort Ville | TER 30424 |
+| 18:06 | 19:54 | Belfort Ville | Chaumont | InterCités 1944 |
 

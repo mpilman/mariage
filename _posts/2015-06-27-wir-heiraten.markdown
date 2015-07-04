@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Wir Heiraten
+title: Wir heiraten
 label: Home
 ---
 
 ![Hochzeits Logo]({{ "/imgs/champagne-logo-hochzeit.png" | prepend: site.baseurl }})
 
-Nach dem wir die letzten 3 Jahre gemeinsam durchs Leben gegangen sind, haben wir uns entschlossen dieses Jahr zu heiraten.
+Nachdem wir die letzten 3 Jahre gemeinsam durchs Leben gegangen sind, haben wir uns entschlossen dieses Jahr zu heiraten.
 
 Wir werden am 05. September 2015 in der Champagne heiraten. 
 
